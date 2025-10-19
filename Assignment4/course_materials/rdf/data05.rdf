@@ -44,17 +44,17 @@
     <rdfs:Property rdf:about="#sibling">
         <rdfs:range rdf:resource="#Person"/>
         <rdfs:domain rdf:resource="#Person"/>
-    </rdfs:Poperty>
+    </rdfs:Property>
 
-    <rdfs:Poperty rdf:about="#parent">
+    <rdfs:Property rdf:about="#parent">
         <rdfs:range rdf:resource="#Person"/>
         <rdfs:domain rdf:resource="#Person"/>
-    </rdfs:Poperty>
+    </rdfs:Property>
 
-    <rdfs:Poperty rdf:about="#hasUncleOrAunt">
+    <rdfs:Property rdf:about="#hasUncleOrAunt">
         <rdfs:range rdf:resource="#Person"/>
         <rdfs:domain rdf:resource="#Person"/>
-    </rdfs:Poperty>
+    </rdfs:Property>
 
  
  
