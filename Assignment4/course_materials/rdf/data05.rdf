@@ -41,7 +41,7 @@
         <rdfs:range rdf:resource="&xsd;string"/>
     </rdfs:Datatype>
 
-    <rdfs:Poperty rdf:about="#sibling">
+    <rdfs:Property rdf:about="#sibling">
         <rdfs:range rdf:resource="#Person"/>
         <rdfs:domain rdf:resource="#Person"/>
     </rdfs:Poperty>
